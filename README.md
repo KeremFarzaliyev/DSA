@@ -86,8 +86,3 @@ A* consistently outperforms Dijkstra on this time‐weighted road graph. The heu
 
 ---
 
-## Future Work
-
-- Integrate live traffic or congestion data as dynamic edge weights  
-- Compare against bidirectional Dijkstra or landmark-based A* (ALT)  
-- Extend benchmarks to other cities or multi-modal transport networks  
